@@ -16,6 +16,6 @@ background-color: green;
 - [x] step 2
 - [x] step 3
 - [x] step 4
-- [ ] - [ ] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
